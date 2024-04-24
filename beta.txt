@@ -1,1 +1,1 @@
-Second git text file
+Second git file
